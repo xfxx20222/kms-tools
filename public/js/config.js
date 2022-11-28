@@ -3,13 +3,12 @@ window.Config = {
     {
       id: 0,
       name: 'Blog',
-      url: 'https://www.ikxin.com'
+      url: 'https://blog.aidengrong.top'
     },
     {
       id: 1,
-      name: 'Github',
-      url: 'https://github.com/ikxin/kms-tools'
+      name: 'Music',
+      url: 'https://music.aidengrong.top'
     }
   ],
-  beian: '粤ICP备2021024472号'
 }
