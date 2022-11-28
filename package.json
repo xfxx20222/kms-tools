@@ -1,9 +1,9 @@
 {
-  "name": "kms-tools",
+  "name": "番茄酱的kms",
   "private": true,
   "version": "1.2.0",
   "description": "一个用于生成kms激活脚本的小工具",
-  "author": "一纸忘忧 <i@ikxin.com>",
+  "author": "番茄酱 <aidengrong@gmail.com>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
